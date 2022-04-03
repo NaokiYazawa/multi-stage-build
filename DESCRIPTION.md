@@ -82,7 +82,7 @@ volumes:
   db:
 ```
 
-```dockerfile:Dockerfile
+```dockerfile
 # Build stage
 # golang:<version>-alpine は、Alpine Linux プロジェクトをベースにしている。
 # イメージサイズを最小にするため、git、gcc、bash などは、Alpine-based のイメージには含まれていない。
@@ -122,7 +122,7 @@ EXPOSE 8080
 CMD [ "/app/main" ]
 ```
 
-```dockerfile:Dockerfile
+```dockerfile
 # Build stage
 # golang:<version>-alpine は、Alpine Linux プロジェクトをベースにしている。
 # イメージサイズを最小にするため、git、gcc、bash などは、Alpine-based のイメージには含まれていない。
