@@ -1,4 +1,3 @@
 Click here for tutorial:
 
-- [Document(Japanese)](https://github.com/NaokiYazawa/multi-stage-build/blob/main/DESCRIPTION.md)
-- [Video(Japanese)]()
+- [Document(Japanese)](https://zenn.dev/farstep/articles/a7819ec705dcc0)
